@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliZain
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... NEXT JS 👩‍💻
+- 👀 I’m interested in ... AI/ML 
+- 🌱 I’m currently learning ... Backend Development 👩‍💻
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
